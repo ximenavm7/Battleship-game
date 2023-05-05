@@ -343,7 +343,6 @@ void alarm_handler(int signum) {}
 
 void menu()
 {
-    printf("----Ximena Vazquez Mellado Flores 171319----\n--------------------------------------------\n");
     printf("Welcome to BattleShip!\n");
     printf("----Instrucions:----\n");
     printf("Both player must first place 3 boats of sixe 2x1, and they will take turns in order to try to guess\n");
